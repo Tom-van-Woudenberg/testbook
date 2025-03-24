@@ -21,5 +21,6 @@ parts:
       - file: syntax_exercises/007.md
       - file: syntax_exercises/008.md
     - file: references.md
+    - file: Analysis.ipynb
     - file: changelog.md
     - file: credits.md
