@@ -12,3 +12,10 @@ This content is hidden until the user clicks the title.
 ```{admonition} Did you know?
 You can customise the title of this block using the `admonition` directive.
 ```
+
+```{exercise} 1
+:nonumber:
+:class: dropdown
+
+Text of the exercise
+```
