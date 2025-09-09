@@ -19,3 +19,10 @@ You can customise the title of this block using the `admonition` directive.
 
 Text of the exercise
 ```
+
+Interactive python code?
+
+```{code-cell} ipython3
+:tags: ["thebe-init"]
+print("This is a test.")
+```
